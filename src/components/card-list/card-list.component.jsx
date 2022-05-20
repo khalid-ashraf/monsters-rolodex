@@ -1,5 +1,5 @@
-import Card from "../card/card.component";
-import "./card-list.styles.css";
+import Card from "../card-container/card-container.component";
+import "./card-list.style.css";
 
 const CardList = ({ monsters }) => (
 	<div className='card-list'>
